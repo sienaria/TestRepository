@@ -1,3 +1,0 @@
-﻿  ex_1.cpp
-C:\Users\gs469\source\repos\Sample_1\Sample_1\ex_1.cpp(13,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Sample_1.vcxproj -> C:\Users\gs469\source\repos\Sample_1\Debug\Sample_1.exe
